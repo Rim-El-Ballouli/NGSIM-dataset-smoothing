@@ -32,7 +32,7 @@ You can add the corresponding libraries to your working environment using either
 ### Matrix Expression Animation 
 The animation below depicts the process of smoothing using matrix expression. 
 
-![smoothing process](https://github.com/Rim-El-Ballouli/NGSIM-US-101-trajectory-dataset-smoothing/blob/master/smothing-code/velocity_smoothing_process.gif)
+![smoothing process](https://github.com/Rim-El-Ballouli/NGSIM-US-101-trajectory-dataset-smoothing/blob/master/smothing-code/velocity_smoothing_process_2.gif)
  
 
 
