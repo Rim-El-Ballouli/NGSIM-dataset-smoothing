@@ -11,6 +11,7 @@ The python code performs the following:
  represented as a single matrix A and the next value for each x and y in matrix A is
  represented in matrix B. Next the distance is computed using numpy.expressions.
  
+ 
 ### Speed-up Benchmark 
  **BEFOR v1.0:** 768949652 function calls (767703838 primitive calls) in 1299.943 seconds
  
