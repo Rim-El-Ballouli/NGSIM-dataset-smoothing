@@ -17,7 +17,7 @@ The python code performs the following:
  
  **AFTER v2.0:** 12877249 function calls (12764933 primitive calls) in 179.409 seconds
 
- Overall; we achieved a 7 times speed-up
+The new version is upto 7 times faster
  
  
 ### Library Requirments
